@@ -1,5 +1,7 @@
 # Table of contents
 
+- [introduce](README.md)
+
 * python及相关介绍
 * 语言基础
   - 基础语法
