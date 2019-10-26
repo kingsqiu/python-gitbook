@@ -9,7 +9,7 @@
   - 数据类型
     - 数字，bool
     - list, tuple
-    - [str](语言基础/数据类型/str.md)
+    - str
     - dict
     - set, frozenset
     - bytes, bytearray, memoryview
