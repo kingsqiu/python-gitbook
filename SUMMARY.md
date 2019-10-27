@@ -1,6 +1,6 @@
 # 总目录
 
-* [readme](README.md)
+* [PYTHON笔记目录](README.md)
 * python及相关介绍
 * 语言基础
   - 基础语法
