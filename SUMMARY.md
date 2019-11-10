@@ -1,7 +1,7 @@
 # SUMMARY
 
 * [PYTHON笔记目录](README.md)
-* python及相关介绍
+* [python及相关介绍](介绍/introduction.md)
 * 语言基础
   - 基础语法
     - 流程控制语句
