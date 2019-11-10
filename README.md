@@ -10,7 +10,7 @@
   - 数据类型
     - 数字，bool（总结中）
     - list, tuple（总结中）
-    - [str](语言基础/数据类型/str.md)
+    - str（待完善）
     - dict（总结中）
     - set, frozenset（总结中）
     - bytes, bytearray, memoryview（总结中）
