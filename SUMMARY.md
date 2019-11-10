@@ -10,7 +10,7 @@
   - [数据类型](语言基础/数据类型/标准类型层级结构.md)
     - 数字，bool
     - list, tuple
-    - [str](语言基础/数据类型/str.md)
+    - [字符串](语言基础/数据类型/字符串.md)
     - dict
     - set, frozenset
     - bytes, bytearray, memoryview
@@ -38,6 +38,8 @@
 * 简单第三方库
 * PEP(增强建议)
   - 代码规范
+* python2的对比，以及迁移
+  - 面向对象方编程
 * 相关工具
 * [web框架Django2.1版](web框架django/简述.md)
   - [url调度](web框架django/url调度.md)
